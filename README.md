@@ -14,7 +14,7 @@ const al = {
       "Git"],
 
   learn(tech) {
-      technologies.push(tech);
+      this.technologies.push(tech);
   }
 };
 ```
