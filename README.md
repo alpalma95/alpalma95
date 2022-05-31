@@ -7,14 +7,16 @@ const al = {
   name: "Álvaro",
   favoriteDrinks: ["coffee", "beer"],
   technologies: [
-      "HTML5", 
-      "CSS3", 
-      "Bootstrap", 
-      "JavaScript ES6", 
-      "Git"],
+    "HTML5",
+    "CSS3",
+    "Bootstrap",
+    "JavaScript ES6",
+    "React",
+    "Git",
+  ],
 
   learn(tech) {
-      this.technologies.push(tech);
-  }
+    this.technologies.push(tech);
+  },
 };
 ```
