@@ -12,6 +12,9 @@ const al = {
     "Bootstrap",
     "JavaScript ES6",
     "React",
+    "Python",
+    "Flask",
+    "SQLAlchemy",
     "Git",
   ],
 
