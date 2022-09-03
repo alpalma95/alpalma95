@@ -5,17 +5,23 @@
 ```javascript
 const al = {
   name: "Álvaro",
-  favoriteDrinks: ["coffee", "beer"],
   technologies: [
     "HTML5",
     "CSS3",
+    "Sass",
     "Bootstrap",
     "JavaScript ES6",
     "React",
+    "Node",
+    "Express",
+    "MongoDB",
+    "Mongoose",
     "Python",
     "Flask",
+    "PostgreSQL",
     "SQLAlchemy",
     "Git",
+    "GitHub",
   ],
 
   learn(tech) {
