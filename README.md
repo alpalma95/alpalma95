@@ -1,4 +1,4 @@
-<!-- # Hi there! 👊
+# Hi there! 👊
 
 ## This is Al 👋
 
@@ -28,6 +28,4 @@ const al = {
     this.technologies.push(tech);
   },
 };
-``` -->
-
-<h1 style="color: red">Test</h1>
+```
