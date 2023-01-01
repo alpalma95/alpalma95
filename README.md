@@ -48,7 +48,7 @@ First, came [FreeCodeCamp](https://www.freecodecamp.org/). Then, [The Odin Proje
 
 I can build complete full stack applications, all the way from design to deployment. I try to build everything from scratch, as I love **CSS** (especially with **Sass**), and I'm proud to put a lot of effort in creating functional and beautiful things.
 
-Right now, I'm working primarily with **Angular** at a Spanish software consultancy company. I still love React, but I prefer Angular's philosophy and I believe that it suits me better for professional purposes.
+Right now, I'm working primarily with **Angular** at a Spanish software consulting company. I still love React, but I prefer Angular's philosophy and I believe that it suits me better for professional purposes.
 
 ### Bonus track: _Things I like besides coding_
 
