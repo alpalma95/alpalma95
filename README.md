@@ -46,7 +46,7 @@ I "progressively enhanced" my skillset. First, came [FreeCodeCamp](https://www.f
 
 Right now, I'm working primarily with **Angular** at a Spanish software company building e-commerce solutions for international clients.
 
-In my free time, I like to explore the web platform, building stuff like ApaJS, Apa-Streams and several other projects that help me understand better the abstraction layer of modern web development.
+In my free time, I like to explore the web platform, building stuff like (ApaJS)[https://github.com/alpalma95/apajs], (Apa-Streams)[https://github.com/alpalma95/apajs-streams] and several other projects that help me understand better the abstraction layer of modern web development.
 
 ### Bonus track: _Things I like besides coding_
 
