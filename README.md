@@ -38,17 +38,15 @@ _Other stack I've worked with_:
 
 I used to be a translator. My native language is **Spanish** (Castillian) and I speak **English** fluently. Besides, I also speak **French** and **Romanian**.
 
-After finishing my Master's degree, I've lived in Romania, then in Portugal, and it was back in Spain when I found a job that required me to learn a bit of web development, as I was sourcing **IT profiles**.
+I've lived in Romania and in Portugal. Back in Spain, I found a job that required me to learn web development, as I was in charge of the whole website (maintenance, development of new features and translation of the content).
 
-I then thought: _Well, this seems a VERY cool sector. What if I learn how to be "sourceable" myself?_
-
-First, came [FreeCodeCamp](https://www.freecodecamp.org/). Then, [The Odin Project](https://www.theodinproject.com/). Jonas Schmedtmann gave me that extra boost I needed with his amazing [JavaScript course](https://www.udemy.com/course/the-complete-javascript-course/) and then, finally, I decided to enroll [4Geeks Academy](https://4geeks.com/) to polish up my frontend skills, to learn **React**, and to dive into backend development with **Python** and **Flask**.
+I "progressively enhanced" my skillset. First, came [FreeCodeCamp](https://www.freecodecamp.org/). Then, [The Odin Project](https://www.theodinproject.com/). Jonas Schmedtmann gave me that extra boost I needed with his amazing [JavaScript course](https://www.udemy.com/course/the-complete-javascript-course/) and then, finally, I decided to enroll [4Geeks Academy](https://4geeks.com/) to polish up my frontend skills, to learn **React**, and to dive into backend development with **Python** and **Flask**.
 
 #### **So, what about now?**
 
-I can build complete full stack applications, all the way from design to deployment. I try to build everything from scratch, as I love **CSS** (especially with **Sass**), and I'm proud to put a lot of effort in creating functional and beautiful things.
+Right now, I'm working primarily with **Angular** at a Spanish software company building e-commerce solutions for international clients.
 
-Right now, I'm working primarily with **Angular** at a Spanish software company building e-commerce solutions for international clients. I still love React, but I prefer Angular's philosophy and I believe that it suits me better for professional purposes.
+In my free time, I like to explore the web platform, building stuff like ApaJS, Apa-Streams and several other projects that help me understand better the abstraction layer of modern web development.
 
 ### Bonus track: _Things I like besides coding_
 
